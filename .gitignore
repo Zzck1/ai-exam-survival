@@ -1,0 +1,10 @@
+# 本机安装目录、测试资料和生成的学习包不属于发布内容
+.codex/
+.agents/
+work/
+outputs/
+*.zip
+*.log
+.DS_Store
+Thumbs.db
+
